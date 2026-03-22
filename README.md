@@ -55,13 +55,6 @@
 
 ---
 
-## 🏆 Achievements & Certifications
-- 🥇 Intern of the Month (2×) – Web Development Internship  
-- 📜 Angular Development Certification – Infosys Springboard  
-- 🐍 Python Programming Certificate – Rudraksha Institute  
-
----
-
 ## 📫 Connect With Me
 - 💼 LinkedIn: https://www.linkedin.com/in/pallavi-bajpai-6564042a5  
 - 💻 GitHub: https://github.com/pallavibajpai28  
