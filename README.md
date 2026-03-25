@@ -8,7 +8,7 @@
 - Passionate Web Developer with a strong foundation in **HTML, CSS, JavaScript, React.js, Java and SOL**
 - Experienced in building **responsive, user-friendly web applications**
 - Hands-on experience through a **3-month Web Development Internship**
--  🏆 Recognized as **Intern of the Month (2×)** for performance and collaboration
+- Recognized as **Intern of the Month (2×)** for performance and collaboration
 
 ---
 
@@ -55,10 +55,9 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pallavibajpai28&theme=radical" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pallavibajpai28&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pallavibajpai28&show_icons=true&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pallavibajpai28&theme=radical"/>
 </p>
-
 ---
 
 ## 📫 Connect With Me
