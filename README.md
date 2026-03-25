@@ -9,7 +9,6 @@
 - Experienced in building **responsive, user-friendly web applications**
 - Hands-on experience through a **3-month Web Development Internship**
 - Recognized as **Intern of the Month (2×)** for performance and collaboration
-- Interested in developing **real-world, scalable web solutions**
 
 ---
 
@@ -47,24 +46,21 @@
 
 ## 📂 Featured Projects
 
-### 🌱 EcoLife – Environmental Awareness Platform
-- Built a sustainability-focused platform with **eco-commerce, waste donation, and awareness modules**
-- Designed a **user-friendly dashboard** for seamless navigation
-- Focused on **clean UI and functional user experience**
-
+- 🌱 **EcoLife** – Eco-commerce & sustainability platform (HTML, CSS, JS, Firebase)  
+- 👗 **Virtual Fashion** – AI-based outfit recommendation web app (Python, JS)  
+- 🚦 **Smart Traffic System** – AI-powered traffic & street light automation (YOLOv8, OpenCV)
+  
 ---
 
-### 🚦 Smart Traffic & Street Light System
-- Developed an **AI-powered system** using YOLOv8 and OpenCV
-- Automated street lighting based on **real-time vehicle detection**
-- Improved energy efficiency and traffic flow
+## 📊 GitHub Stats
 
----
-
-### 👗 Virtual Fashion Designing (AI Web App)
-- Built an AI-based assistant for **outfit recommendations and body-shape analysis**
-- Designed a **chat-based interface** for personalized fashion suggestions
-- Integrated external platforms like **Ajio, Amazon, Nykaa**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pallavibajpai28&show_icons=true&theme=radical" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pallavibajpai28&theme=radical"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pallavibajpai28&layout=compact&theme=radical"/>
+</p>
 
 ---
 
@@ -83,7 +79,7 @@
 
 ---
 
-**🚀 Turning curiosity into code and ideas into reality. **
+**🚀 Turning curiosity into code and ideas into reality.**
 
 <!---
 pallavibajpai28/pallavibajpai28 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
