@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Pallavi Bajpai
 
-💻 Web Developer | React.js Developer  
+💻 Web Developer   
 
 ---
 
@@ -32,7 +32,7 @@
 ---
 
 ### 🗄️ Database & Backend
-![SQL](https://img.shields.io/badge/SQL-grey?style=for-the-badge&logo=database)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=databricks&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-yellow?style=for-the-badge&logo=firebase)
 
 ---
@@ -69,13 +69,21 @@
 ---
 
 ## 📫 Connect With Me
-- 💼 LinkedIn: https://www.linkedin.com/in/pallavi-bajpai-6564042a5  
-- 💻 GitHub: https://github.com/pallavibajpai28  
-- 📧 Email: pallavi.bajpai2004@gmail.com  
+<p align="left">
+  <a href="https://www.linkedin.com/in/pallavi-bajpai-6564042a5">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/pallavibajpai28">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="mailto:pallavi.bajpai2004@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-⭐ *Always open to learning and collaboration!*
+**🚀 Turning curiosity into code and ideas into reality. **
 
 <!---
 pallavibajpai28/pallavibajpai28 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
