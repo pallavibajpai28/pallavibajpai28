@@ -16,19 +16,32 @@
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
-- HTML5, CSS3, JavaScript (ES6), Java, Python
+![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java)
+
+
+---
 
 ### ⚛️ Frameworks & Libraries
-- React.js, Angular(basics)
+![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
+![Angular](https://img.shields.io/badge/Angular-red?style=for-the-badge&logo=angular)
+![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask)
 
-### 🗄️ Database & Backend Exposure
-- SQL, Firebase
+---
+
+### 🗄️ Database & Backend
+![SQL](https://img.shields.io/badge/SQL-grey?style=for-the-badge&logo=database)
+![Firebase](https://img.shields.io/badge/Firebase-yellow?style=for-the-badge&logo=firebase)
+
+---
 
 ### 🔧 Tools
-- Git, GitHub, VS Code, Eclipse
-
-### 📚 Concepts
-- REST APIs, Component-Based Architecture, OOPs, SDLC
+![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
+![VS Code](https://img.shields.io/badge/VS_Code-blue?style=for-the-badge&logo=visual-studio-code)
+![Eclipse](https://img.shields.io/badge/Eclipse-purple?style=for-the-badge&logo=eclipse-ide)
 
 ---
 
