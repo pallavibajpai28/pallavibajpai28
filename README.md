@@ -58,8 +58,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=pallavibajpai28&show_icons=true&theme=radical" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pallavibajpai28&theme=radical"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pallavibajpai28&layout=compact&theme=radical"/>
 </p>
 
 ---
