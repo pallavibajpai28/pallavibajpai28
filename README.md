@@ -79,6 +79,12 @@
 
 **🚀 Turning curiosity into code and ideas into reality.**
 
+---
+
+## 🐍 Contribution Graph
+
+![Snake animation](https://raw.githubusercontent.com/pallavibajpai28/pallavibajpai28/output/github-contribution-grid-snake.svg)
+
 <!---
 pallavibajpai28/pallavibajpai28 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
