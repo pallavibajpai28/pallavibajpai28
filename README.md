@@ -5,7 +5,7 @@
 ---
 
 🚀 About Me
-- Passionate Web Developer with a strong foundation in **HTML, CSS, JavaScript, React.js, Java and SOL**
+- Passionate Web Developer with a strong foundation in **HTML, CSS, JavaScript, React.js, Java and SQL**
 - Experienced in building **responsive, user-friendly web applications**
 - Hands-on experience through a **3-month Web Development Internship**
 - Recognized as **Intern of the Month (2×)** for performance and collaboration
