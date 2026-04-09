@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Pallavi Bajpai
 
-💻 Full Stack Web Developer    
+💻 Full Stack Web Developer     
 
 ---
 
