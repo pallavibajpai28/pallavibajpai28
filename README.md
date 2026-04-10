@@ -3,7 +3,7 @@
 💻 Full Stack Web Developer     
 
 ---
-
+ 
 🚀 About Me
 - Passionate Web Developer with a strong foundation in **HTML, CSS, JavaScript, React.js, Java and SQL**
 - Experienced in building **responsive, user-friendly web applications**
